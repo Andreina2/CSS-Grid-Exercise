@@ -1,2 +1,2 @@
 # CSS-Grid-Exercise
-Ejercicio utilizando CCS Grid a unas imágenes
+Ejercicio utilizando CCS Grid a una galería de imágenes.
